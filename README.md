@@ -1,4 +1,4 @@
-# Blink Tracker
+# Blink Scroll
 
 A modern Python application that **detects eye blinks using your webcam** and automatically scrolls through pages (Instagram, TikTok, web pages, etc.). Includes a sleek GUI with start/stop/quit controls.
 
@@ -25,3 +25,9 @@ cd blinktrack
 ```
 
 Dependencies: `pip install opencv-python pyautogui pillow`
+
+2. **Run the project**
+
+```bash
+python main.py
+```
