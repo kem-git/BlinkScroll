@@ -29,5 +29,5 @@ Dependencies: `pip install opencv-python pyautogui pillow`
 2. **Run the project**
 
 ```bash
-python main.py
+python blink.py
 ```
